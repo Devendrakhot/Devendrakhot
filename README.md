@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**Devendrakhot/Devendrakhot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
 
-Here are some ideas to get you started:
+<p align="center">
+  I am Devendra!
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Devendrakhot)](https://github.com/Devendrakhot) [![GitHub followers](https://img.shields.io/github/followers/Devendrakhot.svg?style=social&label=Follow)](https://github.com/Devendrakhot?tab=followers)
+
+_Currently:_ IT student from India.
+
+## 🐦 Github Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=Devendrakhot&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
