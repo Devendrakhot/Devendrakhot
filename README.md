@@ -33,7 +33,7 @@ I'm **Devendra Khot**, a passionate Junior Software Developer with over 2 years 
 
 ---
 
-## 📸 GUI Showcase — Projects
+## 📸 GUI Showcase — Highlight Projects
 
 ### 🌐 Chinmaya Mission Website
 
@@ -86,7 +86,7 @@ I'm **Devendra Khot**, a passionate Junior Software Developer with over 2 years 
 
 📧 [khotdevendra1@gmail.com](mailto:khotdevendra1@gmail.com)  
 📞 +91 93724 71869  
-🌐 [devendrakhot.app](https://devendrakhot.app)  
+🌐 [devendrakhot.app](https://devendrakhot.netlify.app)  
 🔗 [linkedin.com/in/devendra-khot](https://www.linkedin.com/in/devendra-khot)
 
 ---
